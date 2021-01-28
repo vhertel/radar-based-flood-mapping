@@ -1,14 +1,14 @@
 <p><center> <img src="img/header.png" width="1000"/> </p></center>
 
-# Flood Extent Mapping
+# Radar-based Flood Mapping
 
 <p><center> <img src="img/example.png" width="1000"/> </p></center>
 
 ***
 
-The objective of this [Recommended Practice](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-radar-based-flood-mapping) is to determine the extent of flooded areas. The usage of Synthetic Aperture Radar (SAR) satellite imagery for flood extent mapping constitutes a viable solution with fast image processing, providing near real-time flood information to relief agencies for supporting humanitarian action. The high data reliability as well as the absence of geographical constraints, such as site accessibility, emphasize the technology’s potential in the field.
+The objective of this [Recommended Practice](https://un-spider.org/advisory-support/recommended-practices) is to determine the extent of flooded areas. The usage of Synthetic Aperture Radar (SAR) satellite imagery for flood extent mapping constitutes a viable solution with fast image processing, providing near real-time flood information to relief agencies for supporting humanitarian action. The high data reliability as well as the absence of geographical constraints, such as site accessibility, emphasize the technology’s potential in the field.
 
-This Jupyter Notebook covers the full processing chain from data query and download up to the export of a final flood mask product by utilizing open access Sentinel-1 SAR data. The tool's workflow is illustrated below. More detailed information regarding user inputs and processing steps can be found within the Jupyter Notebook.
+This [Jupyter Notebook](https://github.com/vhertel/flood-extent-mapping/blob/main/flood-extent-mapping.ipynb) covers the full processing chain from data query and download up to the export of a final flood mask product by utilizing open access Sentinel-1 SAR data. The tool's workflow follows the UN-SPIDER Recommended Practice on [Radar-based Flood Mapping](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-radar-based-flood-mapping) and is illustrated below. More detailed information regarding user inputs and processing steps can be found within the Jupyter Notebook.
 
 <p><center> <img src="img/chart_readme.png" width="1000"/> </p></center>
 
