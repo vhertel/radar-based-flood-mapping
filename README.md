@@ -24,4 +24,6 @@ The tool's workflow is demonstrated using the example of the Ulua Basin, Hondura
 
 <p align="center"> <img src=img/tutorial.gif width="800"> </p>
 
-*This tool was created to support the [UN-SPIDER Knowledge Portal](http://www.un-spider.org/).*
+*This tool was created to support the [UN-SPIDER Knowledge Portal](http://www.un-spider.org/).*  <br />
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
