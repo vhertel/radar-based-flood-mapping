@@ -1,4 +1,4 @@
-English | [Español](https://github.com/UN-SPIDER/flood-extent-mapping-spanish)
+English | [Español](https://github.com/UN-SPIDER/radar-based-flood-mapping-spanish)
 
 <p><center> <img src="resources/header.png" width="1000"/> </p></center>
 
@@ -10,13 +10,13 @@ English | [Español](https://github.com/UN-SPIDER/flood-extent-mapping-spanish)
 
 The objective of this [Recommended Practice](https://un-spider.org/advisory-support/recommended-practices) is to determine the extent of flooded areas. The usage of Synthetic Aperture Radar (SAR) satellite imagery for flood extent mapping constitutes a viable solution with fast image processing, providing near real-time flood information to relief agencies for supporting humanitarian action. The high data reliability as well as the absence of geographical constraints, such as site accessibility, emphasize the technology’s potential in the field.
 
-This [Jupyter Notebook](https://github.com/vhertel/flood-extent-mapping/blob/main/flood-extent-mapping.ipynb) covers the full processing chain from data query and download up to the export of a final flood mask product by utilizing open access Sentinel-1 SAR data. The tool's workflow follows the UN-SPIDER Recommended Practice on [Radar-based Flood Mapping](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-radar-based-flood-mapping) and is illustrated below. More detailed information regarding user inputs and processing steps can be found within the Jupyter Notebook.
+This [Jupyter Notebook](https://github.com/vhertel/radar-based-flood-mapping/blob/main/radar-based-flood-mapping.ipynb) covers the full processing chain from data query and download up to the export of a final flood mask product by utilizing open access Sentinel-1 SAR data. The tool's workflow follows the UN-SPIDER Recommended Practice on [Radar-based Flood Mapping](https://un-spider.org/advisory-support/recommended-practices/recommended-practice-radar-based-flood-mapping) and is illustrated below. More detailed information regarding user inputs and processing steps can be found within the Jupyter Notebook.
 
 <p><center> <img src="resources/charts/chart_readme.png" width="1000"/> </p></center>
 
 An alternative version has been optimized for the use with Google Colab. As a cloud computing-based environment for Jupyter Notebooks, it takes advantage of external technical resources and thus allows this tool to be applied using devices with limited computing power, including phones and tablets, and in areas with scarce bandwidth. This version can directly be accessed and used by clicking the icon below. <br />
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vhertel/flood-extent-mapping/blob/main/colab/flood-extent-mapping-colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vhertel/radar-based-flood-mapping/blob/main/colab/radar-based-flood-mapping-colab.ipynb)
 
 ***
 
