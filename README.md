@@ -29,3 +29,7 @@ The tool's workflow is demonstrated using the example of the Ulua Basin, Hondura
 *This tool was created to support the [UN-SPIDER Knowledge Portal](http://www.un-spider.org/).*  <br />
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+## Legal notice and disclaimer
+
+<i>"The boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the United Nations."</i>
