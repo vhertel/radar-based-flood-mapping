@@ -14,9 +14,9 @@ This [Jupyter Notebook](https://github.com/vhertel/radar-based-flood-mapping/blo
 
 <p><center> <img src="resources/charts/chart_readme.png" width="1000"/> </p></center>
 
-An alternative version has been optimized for the use with Google Colab. As a cloud computing-based environment for Jupyter Notebooks, it takes advantage of external technical resources and thus allows this tool to be applied using devices with limited computing power, including phones and tablets, and in areas with scarce bandwidth. This version can directly be accessed and used by clicking the icon below. <br />
+Alternative versions have been optimized for the use with [Binder](https://mybinder.org/) and [Google Colab](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb). As cloud computing-based environments for Jupyter Notebooks, they take advantage of external technical resources and thus allow this tool to be applied using devices with limited computing power, including phones and tablets, and in areas with scarce bandwidth. These versions can directly be accessed and used by clicking the respective icons below. <br />
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vhertel/radar-based-flood-mapping/blob/main/colab/radar-based-flood-mapping-colab.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vhertel/radar-based-flood-mapping/HEAD?filepath=%2Fresources%2Fnotebooks%2Fradar-based-flood-mapping-binder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vhertel/flood-test/blob/main/colab/flood-extent-mapping-colab.ipynb)
 
 ***
 
