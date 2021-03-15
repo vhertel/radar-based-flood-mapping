@@ -1,0 +1,13 @@
+name: env_snap
+channels:
+  - terradue
+  - conda-forge
+dependencies:
+  - snap=8.0.0
+  - matplotlib
+  - ipyleaflet
+  - geopandas
+  - scikit-image
+  - ipyfilechooser
+  - sentinelsat
+  - jupyter_contrib_nbextensions
