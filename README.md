@@ -22,7 +22,7 @@ Alternative versions have been optimized for the use with [Binder](https://mybin
 
 # Tutorial
 
-The tool's workflow is demonstrated using the example of the Ulua Basin, Honduras, after the tropical cyclone Eta with Sentinel-1 data from November 11, 2020. [Click here](https://youtu.be/TYm7hxg3SHg) to see the full tutorial.
+The tool's workflow is demonstrated using the example of the Ulua Basin, Honduras, after the tropical cyclone Eta with Sentinel-1 data from November 11, 2020. [Click here](https://youtu.be/xCmXTWHH35k?t=1852) to see a full tutorial and [here](https://youtu.be/xCmXTWHH35k?t=1417) for an introduction to the methodology.
 
 <p align="center"> <img src=resources/tutorial.gif width="800"> </p>
 
