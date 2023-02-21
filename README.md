@@ -16,7 +16,11 @@ This [Jupyter Notebook](https://github.com/vhertel/radar-based-flood-mapping/blo
 
 Alternative versions have been optimized for the use with [Binder](https://mybinder.org/) and [Google Colab](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb). As cloud computing-based environments for Jupyter Notebooks, they take advantage of external technical resources and thus allow this tool to be applied using devices with limited computing power, including phones and tablets, and in areas with scarce bandwidth. These versions can directly be accessed and used by clicking the respective icons below. <br />
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UN-SPIDER/radar-based-flood-mapping/HEAD?filepath=%2Fresources%2Fnotebooks%2Fradar-based-flood-mapping-binder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UN-SPIDER/radar-based-flood-mapping/blob/main/resources/notebooks/radar-based-flood-mapping-colab-training.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UN-SPIDER/radar-based-flood-mapping/HEAD?filepath=%2Fresources%2Fnotebooks%2Fradar-based-flood-mapping-binder.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UN-SPIDER/radar-based-flood-mapping/blob/main/resources/notebooks/radar-based-flood-mapping-colab.ipynb)
+
+An adjusted version of the notebook with separated processing steps can be accessed below. <br />
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UN-SPIDER/radar-based-flood-mapping/blob/main/resources/notebooks/radar-based-flood-mapping-colab-training.ipynb)
 
 ***
 
